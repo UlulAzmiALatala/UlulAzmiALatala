@@ -1,18 +1,23 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # Jalankan otomatis setiap 12 jam
+  schedule:
     - cron: "0 */12 * * *" 
-  workflow_dispatch: # Memungkinkan dijalankan manual
+  workflow_dispatch:
   push:
     branches:
       - main
+
+# MEMBERIKAN IZIN TULIS (WRITE PERMISSION) KE GITHUB ACTIONS
+permissions: 
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      # Update ke v4 untuk menghilangkan warning Node.js
+      - uses: actions/checkout@v4
       
       - uses: Platane/snk/svg-only@v3
         id: snake-gif
@@ -24,8 +29,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
+      # Update ke v4 untuk menghilangkan warning Node.js
       - name: Push generation to a build branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4.1.0
         with:
           target_branch: output
           build_dir: dist
