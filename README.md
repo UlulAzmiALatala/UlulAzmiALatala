@@ -33,9 +33,10 @@ name: Ulul Azmi A. Latala (Ulzyy)
 role: Lead Full-Stack Developer & System Architect
 education: 
   - B.Comp.Sc (S.Kom) in Informatics
-  - B.Sc in Statistics
 current_focus:
   - Enterprise Budget & Financial Realization Systems (RPD / SIRA)
   - Full-Stack Web Ecosystems @ TechnoG Solutions
   - Real-Time Operational & Analytics Dashboards
 philosophy: "Clean architecture, intuitive glassmorphism UI, and data-driven precision."
+
+
