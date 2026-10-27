@@ -43,3 +43,69 @@
   ],
   "design_philosophy": "Clean MVC architecture meets high-end glassmorphism UI."
 }
+```
+
+<!-- 🟦 GLOWING NEON DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+### 🛠️ Tech Arsenal & Infrastructure
+
+<div align="center">
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=laravel,php,react,js,ts,tailwind,alpinejs,html,css,kotlin,flutter,dart,mysql,nodejs,aws,linux,git,githubactions,figma,vscode&perline=10&theme=dark" alt="Tech Stack Icons" />
+    </a>
+  </p>
+</div>
+
+<details>
+  <summary><b>✨ KLIK UNTUK MELIHAT DETAIL TECH STACK & TOOLS</b></summary>
+  <br/>
+  
+  - 🖥️ **Frontend & UI Engineering:** React.js, Alpine.js, Tailwind CSS, JavaScript (ES6+), Chart.js, HTML5/CSS3, Figma.
+  - ⚙️ **Backend & Database:** Laravel, PHP 8+, Node.js, MySQL, REST API Architecture.
+  - 📱 **Mobile Development:** Kotlin (Android), Flutter, Dart.
+  - ☁️ **DevOps & Tools:** AWS, Linux SysAdmin, Git/GitHub, GitHub Actions (CI/CD), PuTTY, XAMPP, VS Code.
+</details>
+
+<!-- 🟦 GLOWING NEON DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+### 🚀 Production & Flagship Systems
+
+| System / Repository | Domain | Core Stack | Key Architecture & Impact |
+| :--- | :--- | :--- | :--- |
+| **[RPD / SIRA 2.0](https://github.com/UlulAzmiALatala/RPD)** | 🏛️ **GovTech & Finance** | `Laravel` `React` `Chart.js` | Sistem Informasi Realisasi Anggaran (SIRA) institusional dengan pemantauan serapan *real-time* dan ekspor laporan eksekutif (DOMPDF). |
+| **[moodly-app](https://github.com/UlulAzmiALatala/moodly-app)** | 🧠 **HealthTech** | `Laravel` `JavaScript` `Tailwind` | Platform layanan kesehatan mental terpadu dengan modul administrator manajemen operasional dan keuangan berbasis *real-time*. |
+| **[technog-fresh](https://github.com/UlulAzmiALatala/technog-fresh)** | 🏢 **Tech Agency** | `Laravel Blade` `Alpine.js` | Portal korporat ekosistem **TechnoG Solutions** beserta lini produk terintegrasi (*Cafe Menu* & *Carwash System*). |
+| **[TitipSini-App](https://github.com/UlulAzmiALatala/TitipSini-App)** | 📦 **On-Demand Logistics** | `JavaScript` `REST API` | Platform manajemen layanan penitipan barang terpadu dengan pelacakan transaksi dan manajemen pesanan. |
+| **[stockify-fresh](https://github.com/UlulAzmiALatala/stockify-fresh)** | 📊 **Enterprise ERP** | `PHP` `Laravel` `MySQL` | Sistem pengendalian inventaris, pelacakan mutasi stok barang masuk/keluar otomatis, dan rekapitulasi data gudang. |
+| **[logistic-compro-new](https://github.com/UlulAzmiALatala/logistic-compro-new)** | 🚢 **Logistics Web** | `JavaScript` `Responsive UI` | Profil korporat logistik dengan antarmuka interaktif dan optimasi kecepatan tinggi kelas perusahaan. |
+
+<!-- 🟦 GLOWING NEON DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+### 🐍 GitHub Contribution Matrix (Animated)
+
+<div align="center">
+  <i>Analisis aktivitas pengkodean real-time. Ular animasi berjalan setiap hari mengonsumsi kontribusi.</i><br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UlulAzmiALatala/UlulAzmiALatala/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UlulAzmiALatala/UlulAzmiALatala/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/UlulAzmiALatala/UlulAzmiALatala/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=UlulAzmiALatala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00E676&text_color=C9D1D9" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlulAzmiALatala&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UlulAzmiALatala&theme=tokyonight&hide_border=true&background=0D1117&stroke=161B22&ring=00F7FF&fire=00E676&currStreakLabel=00F7FF&sideLabels=00F7FF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+</div>
+
+<!-- 🌌 FUTURISTIC ANIMATED WAVE FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,50:0A192F,100:090D16&height=120&section=footer" alt="Footer Banner" />
