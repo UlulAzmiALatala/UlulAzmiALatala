@@ -5,7 +5,7 @@
 
   <!-- 💻 TERMINAL BOOT ANIMATION (Mewah & Dinamis) -->
   <a href="https://github.com/UlulAzmiALatala">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00E676&background=0D1117&center=true&vCenter=true&width=800&height=120&lines=>_System+Booting...;>_Authenticating+User:+Ulzyy;>_Role:+Lead+Full-Stack+Dev+%40+TechnoG+Solutions;>_Location:+Yogyakarta+%26+Palu,+Indonesia;>_Status:+Architecting+GovTech+%26+Enterprise+Systems;>_Access_Granted:+Welcome+to+the+Ecosystem." alt="Terminal Boot Sequence" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=00E676&background=0D1117&center=true&vCenter=true&width=800&height=100&lines=>_System_Booting...;>_Role:+Lead_Full-Stack_Dev;>_Focus:+GovTech_%26_Web_Ecosystems;>_Access_Granted:+Welcome." alt="Terminal Boot Sequence" />
   </a>
 
   <!-- 🔗 SOCIAL & TELEMETRY BADGES -->
@@ -99,7 +99,7 @@
 <br/>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=UlulAzmiALatala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00E676&text_color=C9D1D9" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=UlulAzmiALatala&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00E676&text_color=C9D1D9" alt="GitHub Stats" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlulAzmiALatala&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
