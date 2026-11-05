@@ -43,25 +43,10 @@
   ],
   "design_philosophy": "Clean MVC architecture meets high-end glassmorphism UI."
 }
+```
 
-### Bagian 2 (Salin dari sini untuk sambungan ke bawahnya):
-```markdown
 <!-- 🟦 GLOWING NEON DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-### 🏛️ System Architecture & Engineering Focus (Level Dewa)
-
-<div align="center">
-
-| Domain Utama | Arsitektur & Pola Desain | Teknologi & Layanan |
-| :--- | :--- | :--- |
-| **GovTech & Institutional** | Monolithic Modular & Secure REST APIs | `Laravel` `MySQL` `DOMPDF` |
-| **Enterprise SaaS & ERP** | Event-Driven & Role-Based Access Control | `React.js` `Tailwind CSS` `Inertia` |
-| **HealthTech & Analytics** | Real-Time State Management & Secure Vault | `PHP 8+` `Alpine.js` `Chart.js` |
-
-</div>
-
----
 
 ### 🛠️ Tech Arsenal & Infrastructure
 
@@ -96,15 +81,6 @@
 | **[TitipSini-App](https://github.com/UlulAzmiALatala/TitipSini-App)** | 📦 **On-Demand Logistics** | `JavaScript` `REST API` | Platform manajemen layanan penitipan barang terpadu dengan pelacakan transaksi dan manajemen pesanan. |
 | **[stockify-fresh](https://github.com/UlulAzmiALatala/stockify-fresh)** | 📊 **Enterprise ERP** | `PHP` `Laravel` `MySQL` | Sistem pengendalian inventaris, pelacakan mutasi stok barang masuk/keluar otomatis, dan rekapitulasi data gudang. |
 | **[logistic-compro-new](https://github.com/UlulAzmiALatala/logistic-compro-new)** | 🚢 **Logistics Web** | `JavaScript` `Responsive UI` | Profil korporat logistik dengan antarmuka interaktif dan optimasi kecepatan tinggi kelas perusahaan. |
-
-<!-- 🟦 GLOWING NEON DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-### 🏆 Professional Milestone Highlights
-
-*   **GovTech Digital Transformation:** Memimpin pengembangan SIRA 2.0 di Kanwil Kemenkumham Sulteng untuk mengotomatisasi transparansi laporan keuangan birokrasi.
-*   **Startup Scale & Architecture:** Mengarsiteki ekosistem *Full-Stack* di TechnoG Solutions yang menggabungkan analisis data statistik dengan arsitektur web modern bersama tim internal.
-*   **Academic Excellence:** Lulus sebagai Sarjana Komputer (S.Kom) Informatika dari UTDI dengan predikat cum laude (IPK 3.81).
 
 <!-- 🟦 GLOWING NEON DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
